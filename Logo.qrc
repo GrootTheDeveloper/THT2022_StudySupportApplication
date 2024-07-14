@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>background.jpg</file>
+    <file>logo3.png</file>
+    <file>logo2.png</file>
+    <file>Daoly2.png</file>
+    <file>Nerd-amico.png</file>
+    <file>UPDATE_ICON-removebg-preview.png</file>
+    <file>Logodoan.jpg</file>
+  </qresource>
+</RCC>

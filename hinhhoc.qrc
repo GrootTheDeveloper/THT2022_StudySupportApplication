@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="Chuong 1">
+    <file>TOAN HINH/Chuong 3/Bai 4_1.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bai 2.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bài 3.png</file>
+    <file>TOAN HINH/Chuong 1/Bai 4.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bai 5.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bai 6.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bai 7.jpg</file>
+    <file>TOAN HINH/Chuong 1/Bai 8.jpg</file>
+    <file>writeln/Hinh 1.png</file>
+  </qresource>
+  <qresource prefix="Chuong 2">
+    <file>TOAN HINH/Chuong 2/Bai 1.jpg</file>
+    <file>TOAN HINH/Chuong 2/Bai 2.jpg</file>
+    <file>TOAN HINH/Chuong 2/Bai 3.jpg</file>
+    <file>TOAN HINH/Chuong 2/Bai 4.jpg</file>
+    <file>TOAN HINH/Chuong 2/Bai 5.jpg</file>
+  </qresource>
+  <qresource prefix="Chuong 3">
+    <file>TOAN HINH/Chuong 3/Bai 4_1.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 1.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 1_1.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 2.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 2_1.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 3.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 3_1.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 4.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 5.jpg</file>
+    <file>TOAN HINH/Chuong 3/Bai 5_1.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,41 @@
+<RCC>
+  <qresource prefix="Chuong 1 dai">
+    <file>TOAN SO/Chuong 1/bai 1_1.jpg</file>
+    <file>TOAN SO/Chuong 1/bai 1_2.jpg</file>
+    <file>TOAN SO/Chuong 1/bai 1_3.jpg</file>
+    <file>TOAN SO/Chuong 1/Bai 2_1.jpg</file>
+    <file>TOAN SO/Chuong 1/Bai 2_2.jpg</file>
+    <file>TOAN SO/Chuong 1/Bai 3.jpg</file>
+  </qresource>
+  <qresource prefix="Chuong 2 dai">
+    <file>TOAN SO/Chuong 2/bai 1.jpg</file>
+    <file>TOAN SO/Chuong 2/bai 2.jpg</file>
+    <file>TOAN SO/Chuong 2/bai 3.jpg</file>
+    <file>TOAN SO/Chuong 2/bai 4.jpg</file>
+  </qresource>
+  <qresource prefix="Chuong 3 dai">
+    <file>TOAN SO/Chuong 3/bai 5.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 1.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 2_1.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 2_2.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 3_1.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 3_2.jpg</file>
+    <file>TOAN SO/Chuong 3/bai 4.jpg</file>
+  </qresource>
+  <qresource prefix="Chuong 4 dai">
+    <file>TOAN SO/Chuong 4/bai 1_1.jpg</file>
+    <file>TOAN SO/Chuong 4/bai 1_2.jpg</file>
+    <file>TOAN SO/Chuong 4/bai 2_1.jpg</file>
+    <file>TOAN SO/Chuong 4/bai 2_2.jpg</file>
+    <file>TOAN SO/Chuong 4/bai 3.jpg</file>
+  </qresource>
+  <qresource prefix="Chuong 5 dai">
+    <file>TOAN SO/Chuong 5/bai 1_1.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 1_2.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 2.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 3_1.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 3_2.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 4.jpg</file>
+    <file>TOAN SO/Chuong 5/bai 5.jpg</file>
+  </qresource>
+</RCC>
